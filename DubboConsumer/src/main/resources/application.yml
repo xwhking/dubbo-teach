@@ -1,0 +1,10 @@
+server:
+  port: 8080
+dubbo:
+  application:
+    name: DubboTeachConsumer
+  protocol:
+    name: dubbo
+    port: -1
+  registry:
+    address: nacos://localhost:8848
