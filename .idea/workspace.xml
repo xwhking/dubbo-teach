@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9e6a42-319e-4503-ab3e-0b822aaf60bc" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboConsumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboConsumer/src/main/java/com/xwhking/dubbo_consumer/DubboConsumerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboConsumer/src/main/java/com/xwhking/dubbo_consumer/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboConsumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboInterface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboInterface/src/main/java/com/xwhking/dubbo_interface/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboProvider/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboProvider/src/main/java/com/xwhking/dubbo_provider/DubboProviderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboProvider/src/main/java/com/xwhking/dubbo_provider/HelloServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DubboProvider/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8f9e6a42-319e-4503-ab3e-0b822aaf60bc" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +45,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -112,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714296873772</updated>
-      <workItem from="1714296876660" duration="1991000" />
+      <workItem from="1714296876660" duration="2540000" />
     </task>
     <servers />
   </component>
